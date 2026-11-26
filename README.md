@@ -6,11 +6,11 @@
 
 Entry for the [make.fun](https://make.fun) bounty [The Funniest Excuse for Skipping a Meeting](https://make.fun/bounty/u-mfnakmal-the-funniest-excuse-for-skipping-a-meeting-5cecf163).
 
-`main.py` writes one line to `/output/entry.txt` — the excuse itself, 88 characters.
+`main.py` writes one line to `/output/entry.txt` — the excuse itself, 71 characters.
 
 ## The line
 
-> I'd join, but I've been marked optional so many times I've started taking it personally.
+> Sorry, can't make it — I'll be there in spirit, same as I am in person.
 
 ## Run
 
