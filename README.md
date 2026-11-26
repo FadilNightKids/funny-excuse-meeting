@@ -2,11 +2,11 @@
 
 Entry for the make.fun bounty of the same name.
 
-`main.py` writes one line to `/output/entry.txt` — the excuse itself, 103 characters.
+`main.py` writes one line to `/output/entry.txt` — the excuse itself, 89 characters.
 
 ## The line
 
-> I'd join, but I've been staring at the invite so long I've started identifying as an optional guest.
+> I'd join, but I've been marked optional so many times I've started taking it personally.
 
 ## Run
 

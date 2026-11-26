@@ -8,8 +8,8 @@ The code is only the wrapper; the text is the entry.
 from pathlib import Path
 
 EXCUSE = (
-    "I'd join, but I've been staring at the invite so long "
-    "I've started identifying as an optional guest."
+    "I'd join, but I've been marked optional so many times "
+    "I've started taking it personally."
 )
 
 OUT = Path("/output/entry.txt")
