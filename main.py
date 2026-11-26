@@ -8,8 +8,7 @@ The code is only the wrapper; the text is the entry.
 from pathlib import Path
 
 EXCUSE = (
-    "Sorry, can't make it — I'll be there in spirit, "
-    "same as I am in person."
+    "I'll be there in spirit. The spirit read the agenda and has also declined."
 )
 
 OUT = Path("/output/entry.txt")
