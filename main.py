@@ -16,6 +16,8 @@ OUT = Path("/output/entry.txt")
 
 
 def main() -> None:
+    if not 1 <= len(EXCUSE) <= 200:
+        raise ValueError(f"entry must be 1..200 characters, got {len(EXCUSE)}")
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(EXCUSE, encoding="utf-8")
 
